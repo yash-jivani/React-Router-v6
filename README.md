@@ -14,3 +14,8 @@
 ## Topics 
 
 BowserRouter, Routes, Route, Link, NavLink, Navigate, useParmas, useLocation, useNavigate, etc...
+
+#### Nested Rounting 
+
+index concept, outlet
+

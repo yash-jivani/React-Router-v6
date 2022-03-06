@@ -1,11 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
+import App from './NestRouteApp'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    {/* Core Router | App */}
+    {/* <App /> */}
+    {/* Nested Routing | App */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')
